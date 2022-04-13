@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Stacy-Imladris/Stacy-Imladris/blob/main/assets/banner.png)](https://t.me/stacy_imladris)
 
 About me
 
