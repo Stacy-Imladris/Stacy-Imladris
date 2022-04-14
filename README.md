@@ -5,11 +5,11 @@ I'm a front-end developer
 Latest
 
 ## Languages and tools
-![REACT](https://img.shields.io/badge/REACT-282c34?style=for-the-badge&logo=react)
-![REDUX](https://img.shields.io/badge/REDUX-282c34?style=for-the-badge&logo=redux)
-
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-282c34?style=for-the-badge&logo=typescript)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-282c34?style=for-the-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/REACT-011805?style=for-the-badge&logo=react)
+![REDUX](https://img.shields.io/badge/REDUX-011805?style=for-the-badge&logo=redux)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-011805?style=for-the-badge&logo=typescript)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-011805?style=for-the-badge&logo=javascript)
+![SASS](https://img.shields.io/badge/SASS-011805?style=for-the-badge&logo=sass)
 
 Follow me
 
