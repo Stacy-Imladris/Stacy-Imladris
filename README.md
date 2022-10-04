@@ -16,4 +16,4 @@
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-011805?style=for-the-badge&logo=telegram)](https://t.me/stacy_imladris)
 [![CODEWARS](https://img.shields.io/badge/CODEWARS-011805?style=for-the-badge&logo=codewars&logoColor=bb432c)](https://www.codewars.com/users/Stacy-Imladris)
 
-![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacy-Imladris&show_icons=true&bg_color=DEG,011805,077517&title_color=d0eca1&text_color=4CAF50&border_radius=30&border_color=d0eca1&icon_color=d0eca1&count_private=true)
+![Stacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stacy-Imladris&show_icons=true&bg_color=DEG,011805,077517&title_color=d0eca1&text_color=4CAF50&border_radius=30&border_color=d0eca1&icon_color=d0eca1&hide=contribs,prs)
