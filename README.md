@@ -1,10 +1,11 @@
 [![Header](https://github.com/Stacy-Imladris/Stacy-Imladris/blob/main/assets/header.png)](https://t.me/stacy_imladris)
 
-#### I'm a front-end developer
+#### I'm a full-stack developer
 
 ![Stacy's Codewars](https://www.codewars.com/users/Stacy-Imladris/badges/large)
 
 ### Languages and tools
+![NEXT](https://img.shields.io/badge/NEXT-011805?style=for-the-badge&logo=next.js)
 ![REACT](https://img.shields.io/badge/REACT-011805?style=for-the-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/REDUX-011805?style=for-the-badge&logo=redux&logoColor=764abc)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-011805?style=for-the-badge&logo=typescript)
