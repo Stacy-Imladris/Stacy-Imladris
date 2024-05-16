@@ -10,32 +10,25 @@
 <div align="center">
     <a href="https://nextjs.org" target="_blank">
         <img src="https://img.shields.io/badge/Next.js-011805?style=flat&logo=next.js&logoSize=auto"
-             title="Next.js" alt="Next.js" height="27"/>
-    </a>&nbsp;
+             title="Next.js" alt="Next.js" height="27"/></a>&nbsp;
     <a href="https://react.dev" target="_blank">
         <img src="https://img.shields.io/badge/React-011805?style=flat&logo=react&logoSize=auto"
-             title="React" alt="React" height="27"/>
-    </a>&nbsp;
+             title="React" alt="React" height="27"/></a>&nbsp;
     <a href="https://redux-toolkit.js.org" target="_blank">
         <img src="https://img.shields.io/badge/Redux Toolkit + RTK Query-011805?style=flat&logo=redux&logoColor=764abc&logoSize=auto"
-             title="Redux Toolkit + RTK Query" alt="Redux Toolkit + RTK Query" height="27"/>
-    </a>&nbsp;
+             title="Redux Toolkit + RTK Query" alt="Redux Toolkit + RTK Query" height="27"/></a>&nbsp;
     <a href="https://www.typescriptlang.org" target="_blank">
         <img src="https://img.shields.io/badge/TypeScript-011805?style=flat&logo=typescript&logoSize=auto"
-             title="TypeScript" alt="TypeScript" height="27"/>
-    </a>&nbsp;
+             title="TypeScript" alt="TypeScript" height="27"/></a>&nbsp;
     <a href="https://developer.mozilla.org" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-011805?style=flat&logo=javascript&logoSize=auto"
-             title="JavaScript" alt="JavaScript" height="27"/>
-    </a>&nbsp;
+             title="JavaScript" alt="JavaScript" height="27"/></a>&nbsp;
     <a href="https://sass-lang.com" target="_blank">
         <img src="https://img.shields.io/badge/Sass-011805?style=flat&logo=sass&logoSize=auto"
-             title="Sass" alt="Sass" height="27"/>
-    </a>&nbsp;
+             title="Sass" alt="Sass" height="27"/></a>&nbsp;
     <a href="https://styled-components.com" target="_blank">
         <img src="https://img.shields.io/badge/styled components-011805?style=flat&logo=styled-components&logoSize=auto"
-             title="styled-components" alt="styled-components" height="27"/>
-    </a>
+             title="styled-components" alt="styled-components" height="27"/></a>&nbsp;
 </div>
 
 ### Follow me
