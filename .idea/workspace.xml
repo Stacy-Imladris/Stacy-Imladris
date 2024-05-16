@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d12a01a3-cd73-488a-9dfc-04e2b9fd61e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,25 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Stacy-Imladris"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Stacy-Imladris&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Stacy-Imladris/Stacy-Imladris.git",
-    "accountId": "82ff8d7c-f74e-4636-933e-f35bc2e752e4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Stacy-Imladris/Stacy-Imladris.git&quot;,
+    &quot;accountId&quot;: &quot;82ff8d7c-f74e-4636-933e-f35bc2e752e4&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="289jWgaNqNTg7IuCDk9V59BAzQE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,6 +68,8 @@
       <workItem from="1693594416702" duration="659000" />
       <workItem from="1696164961428" duration="244000" />
       <workItem from="1715700315598" duration="54000" />
+      <workItem from="1715700437731" duration="4386000" />
+      <workItem from="1715705043396" duration="1162000" />
     </task>
     <servers />
   </component>

@@ -11,27 +11,27 @@
     <a href="https://nextjs.org" target="_blank">
         <img src="https://img.shields.io/badge/Next.js-011805?style=flat&logo=next.js&logoSize=auto"
              title="Next.js" alt="Next.js" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://react.dev" target="_blank">
         <img src="https://img.shields.io/badge/React-011805?style=flat&logo=react&logoSize=auto"
              title="React" alt="React" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://redux-toolkit.js.org" target="_blank">
         <img src="https://img.shields.io/badge/Redux Toolkit + RTK Query-011805?style=flat&logo=redux&logoColor=764abc&logoSize=auto"
              title="Redux Toolkit + RTK Query" alt="Redux Toolkit + RTK Query" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.typescriptlang.org" target="_blank">
         <img src="https://img.shields.io/badge/TypeScript-011805?style=flat&logo=typescript&logoSize=auto"
              title="TypeScript" alt="TypeScript" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://developer.mozilla.org" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-011805?style=flat&logo=javascript&logoSize=auto"
              title="JavaScript" alt="JavaScript" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://sass-lang.com" target="_blank">
         <img src="https://img.shields.io/badge/Sass-011805?style=flat&logo=sass&logoSize=auto"
              title="Sass" alt="Sass" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://styled-components.com" target="_blank">
         <img src="https://img.shields.io/badge/styled components-011805?style=flat&logo=styled-components&logoSize=auto"
              title="styled-components" alt="styled-components" height="27"/>
@@ -43,11 +43,11 @@
     <a href="https://www.linkedin.com/in/anastasiya-belikova-9687b8234" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-011805?style=social&logo=linkedin&logoColor=0a66c2"
              title="LinkedIn" alt="LinkedIn" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://t.me/stacy_imladris" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-011805?style=social&logo=telegram"
              title="Telegram" alt="Telegram" height="27"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.codewars.com/users/Stacy-Imladris" target="_blank">
         <img src="https://img.shields.io/badge/Codewars-011805?style=social&logo=codewars&logoColor=bb432c"
              title="Codewars" alt="Codewars" height="27"/>
