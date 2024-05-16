@@ -42,16 +42,13 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/anastasiya-belikova-9687b8234" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-011805?style=social&logo=linkedin&logoColor=0a66c2"
-             title="LinkedIn" alt="LinkedIn" height="27"/>
-    </a>&nbsp;
+             title="LinkedIn" alt="LinkedIn" height="27"/></a>&nbsp;
     <a href="https://t.me/stacy_imladris" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-011805?style=social&logo=telegram"
-             title="Telegram" alt="Telegram" height="27"/>
-    </a>&nbsp;
+             title="Telegram" alt="Telegram" height="27"/></a>&nbsp;
     <a href="https://www.codewars.com/users/Stacy-Imladris" target="_blank">
         <img src="https://img.shields.io/badge/Codewars-011805?style=social&logo=codewars&logoColor=bb432c"
-             title="Codewars" alt="Codewars" height="27"/>
-    </a>
+             title="Codewars" alt="Codewars" height="27"/></a>&nbsp;
 </div>
 <br/>
 <div align="center">
